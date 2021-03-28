@@ -1,5 +1,5 @@
-Meu primeiro sistema no Git
+<h1>Brafé</h1>
+Curso da ORIGAMID sobre CSS Avançado Posicionamento
 
-Alteração no sistema
-
-Mais uma alteração no sistema
+<h3>brafe-1</h3>
+Layout feito usando CSS puro, sem responsividade.
