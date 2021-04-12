@@ -11,6 +11,11 @@
 
 <hr>
 
+<h3>Brafe-Grid</h3>
+<p>Layout usando CSS Grid.</p>
+
+<hr>
+
 <h3>Brafe-Flexbox</h3>
 <p>Layout usando CSS com Flexbox.</p>
 
