@@ -17,4 +17,8 @@
 <hr>
 
 <h3>Brafe-Bootstrap</h3>
+<<<<<<< HEAD
 <p>Layout usando CSS com Bootstrap.</p>
+=======
+<p>Layout usando CSS com Bootstrap.</p>
+>>>>>>> 2822d83f7f0ca5ac560f5e8852ac202f198fa545
